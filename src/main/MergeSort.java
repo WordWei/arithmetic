@@ -1,7 +1,9 @@
+package main;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
+
 
 /**
  * Created by Administrator on 2018/4/8.
